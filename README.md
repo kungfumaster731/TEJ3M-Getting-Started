@@ -4,7 +4,7 @@ In this assignment repository you will be tasked with adding a markdown file, a 
 Friday January 19th
 ## Actions
 1) Add a new markdown file to this repository.
-    - Click the ➕ icon above, and add select **create mew file**
+    - Click the ➕ icon above, and add select **create new file**
     - At the top of the editor where it says *name your file...* add the name **reflection.md**
     - Add text to the file describing one aspect of the project/test that you found particularly challenging, or a topic you want to learn more about
     - Style the file using mark down (at least adding at heading), reminder of the GitHub markdown editing reference found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
