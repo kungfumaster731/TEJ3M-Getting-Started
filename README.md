@@ -1,7 +1,7 @@
-# 2324-TEJ3M-5-2-GettingStarted
+# TEJ3M GettingStarted
 In this assignment repository you will be tasked with adding a markdown file, a code file and one other file into the repository, committing your changes and submit your code.
 ## Due date
-Friday January 19th
+Friday January 26th
 ## Actions
 1) Add a new markdown file to this repository.
     - Click the ➕ icon or "Add file" button above, and add select **create new file**
